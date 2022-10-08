@@ -10,5 +10,5 @@ function playRound(playerSelection, computerSelection){
 }
 
 function playGame(){
-    document.getElementById('text').value = "hello";
+    document.getElementById('text').value = "hello world";
 }
